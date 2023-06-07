@@ -1,0 +1,31 @@
+carta nome {
+  display: inline-block;
+  background-color: darkgoldenrod;
+  border:black;
+  border-style: solid;
+  text-align: center;
+
+}
+
+cartas status img {
+ display: inline-block;
+ width: 100px;
+ border: black;
+ border-style: solid;
+}
+
+cartas status {
+ display: block;
+ border: black;
+ border-style: solid;
+
+}
+
+carta: {
+ border: blank;
+ border-style: solid;
+ background-color: coral;
+ width: 900px;
+
+}
+
